@@ -1,4 +1,4 @@
-# Hate-speech-Detector-NLP
+# Hate-speech-Detection-NLP
 Twitter Hate Speech Detection 
 
 # Problem & Goal: 
